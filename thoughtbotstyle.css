@@ -1,0 +1,312 @@
+#boxTop {
+    height: 57px;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #F0F0F2;
+    margin-top: -8px;
+    position: fixed;
+    
+
+}
+
+#boxTop1 {
+    height: 60px;
+    width: 200px;
+    /* background-color: blue; */
+    background-image: url('./images/thoughtbotlogo.PNG');
+    background-repeat: no-repeat;
+    margin-left: 19px;
+    
+}
+
+.boss {
+    background-color: blue;
+}
+
+.noUnderline {
+    text-decoration: none;
+    color: #454547;
+}
+
+.noUnderlineColor {
+    text-decoration: none;
+    color: #29292c;
+}
+
+.noUnderlineColorAuthor {
+    text-decoration: none;
+    color: #ce2d2d;
+}
+
+
+#boxTop2 {
+    height: 27px;
+    width: 80px;
+    /* background-color: blue; */
+    margin-top: -45px;
+    margin-left: 723px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    color: #454547;
+    
+}
+
+#boxTop3 {
+    height: 27px;
+    width: 80px;
+    background-color: #FFFFFF;
+    margin-top: -27px;
+    margin-left: 803px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    color: #454547;
+    
+}
+
+#boxTop4 {
+    height: 27px;
+    width: 80px;
+    /* background-color: red; */
+    margin-top: -27px;
+    margin-left: 883px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    color: #454547;
+    
+}
+
+#boxTop5 {
+    height: 27px;
+    width: 80px;
+    /* background-color: yellow; */
+    margin-top: -27px;
+    margin-left: 963px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    color: #454547;
+    
+}
+
+#boxTop6 {
+    height: 27px;
+    width: 80px;
+    /* background-color: green; */
+    margin-top: -27px;
+    margin-left: 1043px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    color: #454547;
+    
+}
+
+#boxTop7 {
+    height: 27px;
+    width: 35px;
+    /* background-color: gray; */
+    margin-top: -27px;
+    margin-left: 1123px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    background-image: url('./images/search.PNG');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+#boxTop8 {
+    height: 37px;
+    width: 120px;
+    background-color: #D52F2F;
+    margin-top: -37px;
+    margin-left: 1203px;
+    font-size: 18.5px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'calibri';
+    font-weight: bold;
+    padding-top: 9px;
+    
+}
+
+#articleBody {
+    width: 700px;
+    min-height: 3400px;
+    margin: auto;
+    padding-top: 100px;
+    /* background-color: yellow; */
+    
+}
+
+#articleTitle { 
+    width: 700px;
+    height: 150px;
+    /* background-color: aqua; */
+    font-family: 'calibri';
+    font-weight: 600;
+    font-size: 56px;
+    text-align: center;
+    padding-top: 30px;
+    color: #29292c;
+    
+}
+
+#articleTitleAuthor {
+    width: 500px;
+    height: 50px;
+    /* background-color: peru; */
+    font-family: 'calibri';
+    font-weight: 400;
+    font-size: 22.4px;
+    text-align: center;
+    margin: auto;
+    color: #454547;
+}
+
+#articleStoryDiv {
+    width: 700px;
+    height: 150px;
+    /* background-color: darkkhaki; */
+    margin-top: 10px;
+}
+
+#articleStoryTitle {
+    width: 700px;
+    min-height: 50px;
+    /* background-color: tomato; */
+    font-family: 'calibri';
+    font-size: 28px;
+    font-weight: 600;
+    color: #29292c;
+    margin-top: 80px;
+}
+
+#articleStoryHighlight {
+    width: 700px;
+    min-height: 50px;
+    /* background-color: gold; */
+    font-family: 'calibri';
+    font-size: 20px;
+    font-weight: 400;
+    color: #454547;
+}
+
+#articleStoryAuthor {
+    width: 700px;
+    height: 60px;
+    /* background-color: sienna; */
+    padding-top: 20px;
+}
+
+#articleStoryAuthorId {
+    font-weight: normal;
+    color: #ce2d2d;
+    font-size: 22.4px;
+    font-family: 'calibri';
+
+}
+
+#articleStoryAuthorIdDate {
+    font-weight: 400;
+    color: #454547;
+    font-size: 17px;
+    font-family: 'calibri';
+}
+
+#articleStoryAuthorIdGenre {
+    color: #ce2d2d;
+    font-family: 'calibri';
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+
+#pageSwitch {
+    width: 250px;
+    height: 50px;
+    margin: auto;
+    /* background-color: aqua; */
+    font-family: 'calibri';
+    font-size: 22.4px;
+    padding-top: 70px;
+}
+
+#currentPage {
+    font-family: 'calibri';
+    color: #454547; 
+}
+
+#suscribeDiv {
+    width: 700px;
+    height: 150px;
+    /* background-color: olive; */
+    text-align: center;
+    padding-top: 50px;
+    border: 1px solid #F0F0F2;
+    border-radius: 2px;
+}
+
+#suscribeDivWord {
+    font-family: 'calibri';
+    font-size: 22.4px;
+    color: #454547;
+    
+}
+
+#suscribeMail {
+    font-family: 'calibri';
+    font-size: 22.4px;
+    width: 500px;
+    height: 35px;
+    border: 1px solid #F0F0F2;
+}
+
+#suscribeButton {
+    font-family: 'calibri';
+    font-size: 22.4px;
+    color: white;
+    background-color: #ce2d2d;
+    height: 40px;
+    border: 0px;
+    border-radius: 2px;
+    margin-left: -5px;
+}
+
+#bottomInfo {
+    height: 300px;
+    width:auto;
+    background-color: #F5F5F5;
+    
+}
+
+#bottomInfoInfo {
+    font-family: 'calibri';
+    font-size: 22.4px;
+    /* background-color: aqua; */
+    columns: 3;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.bottomInfoInfo {
+    color: #454547;
+}
+
+#bottomInc {
+    font-family: 'calibri';
+    font-size: 20.4px;
+    /* background-color: yellowgreen; */
+    padding-top: 30px;
+    padding-left: 50px;
+}
